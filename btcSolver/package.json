@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bitcoinjs-lib": "^6.1.5",
+    "elliptic": "^6.5.4",
+    "js-sha256": "^0.10.1",
+    "nodemailer": "^6.9.7",
+    "ripemd160": "^2.0.2"
+  }
+}
