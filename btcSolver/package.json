@@ -1,9 +1,16 @@
 {
   "dependencies": {
+    "bignumber.js": "^9.1.2",
+    "bip32": "^4.0.0",
     "bitcoinjs-lib": "^6.1.5",
+    "bitcore-lib": "^10.0.23",
+    "coinkey": "^3.0.0",
+    "ecpair": "^2.1.0",
     "elliptic": "^6.5.4",
+    "js-file-download": "^0.4.12",
     "js-sha256": "^0.10.1",
     "nodemailer": "^6.9.7",
-    "ripemd160": "^2.0.2"
+    "ripemd160": "^2.0.2",
+    "tiny-secp256k1": "^2.2.3"
   }
 }
